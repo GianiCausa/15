@@ -1,0 +1,19 @@
+h1{
+    text-align: center; /* SE ALINEARA AL CENTRO EL TEXTO */
+    color: rgb(230, 242, 252); /* PONEMOS DE COLOR DE FONDO A LAS LETRAS DEL TITULO */
+
+}
+#obtenerDigimones{
+    margin-left: 33%; /* SE PONDRA A 33% EL BOTON DE OBTENER TODOS LOS DIGIMONES */
+    background-color: rgb(223, 243, 255); /* LE COLOCAMOS UN COLOR DE FONDO AL BOTON */
+    border-radius: 10px; /* HACEMOS QUE EL BOTON TENGA SUS ESQUINAS MAS REDONDAS */
+    padding-top: 3px; /* DAMOS LA DISTANCIA DE ARRIBA DEL TEXTO */
+    padding-bottom: 3px; /* DAMOS LA DISTANCIA DE ABAJO DEL TEXTO */
+    margin-top: 1.5%; /* DISTANCIA DEL BOTON Y EL TITULO DE ARRIBA */
+    margin-bottom: 1.5%; /* DISTANCIA DEL BOTON Y EL TITULO DE ABAJO */
+}
+body{
+    background-image: url("https://i.pinimg.com/736x/3d/f2/13/3df2133d270bf3d4b7fd72f5cfff0782.jpg"); /* CON ESTO PONEMOS UNA IMAGEN DE FONDO */
+    background-repeat: no-repeat; /* AQUI NUESTRA IMAGEN NO SE REPETIRA */
+    background-size: cover; /* CON ESTO PODEMOS PONER LA IMAGEN BIEN TOMANDO TODA LA PANTALLA */
+}
